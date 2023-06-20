@@ -3,7 +3,7 @@
 In this practice, you will
 
 - Generate a React app using the `create-react-app` CLI tool
-- Modify it into a template that you can use more easily
+- Modify it into a template that you can use more easily hidden
 
 ## Generate a React app
 
