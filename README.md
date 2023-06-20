@@ -3,7 +3,7 @@
 In this practice, you will
 
 - Generate a React app using the `create-react-app` CLI tool
-- Modify it into a template that you can use more easily hidden
+- Modify it into a template that you can use more easily hiddendd df
 
 ## Generate a React app
 
